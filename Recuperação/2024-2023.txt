@@ -1,0 +1,56 @@
+Produção anual total em unidades por produto
+Sola inteira: 286 --
+Meia sola: 536 
+Quarto de sola: 547 
+Entre sola: 579 
+Palmilha: 727 
+Meia palmilha: 595 
+Salto alto: 794 ++
+Salto médio: 753 
+Salto curto: 696 
+Salto baixo: 701 
+Total: 6214
+
+
+Produção anual total em reais por produto
+Sola inteira: 572.00 --
+Meia sola: 1072.00 
+Quarto de sola: 1094.00 
+Entre sola: 1158.00 
+Palmilha: 1454.00 
+Meia palmilha: 1190.00 
+Salto alto: 1588.00 ++
+Salto médio: 1506.00 
+Salto curto: 1392.00 
+Salto baixo: 1402.00 
+Total: 12428.00
+
+Produção total mensal em unidades de produtos
+Janeiro: 359
+Fevereiro: 403
+Março: 446
+Abril: 686
+Maio: 359
+Junho: 574
+Julho: 697
+Agosto: 489
+Setembro: 655
+Outubro: 505
+Novembro: 511
+Dezembro: 530
+Total: 6214
+
+Produção total mensal em reais por produto
+Janeiro: 718.00
+Fevereiro: 806.00
+Março: 892.00
+Abril: 1372.00
+Maio: 718.00
+Junho: 1148.00
+Julho: 1394.00
+Agosto: 978.00
+Setembro: 1310.00
+Outubro: 1010.00
+Novembro: 1022.00
+Dezembro: 1060.00
+Total: 12428.00
